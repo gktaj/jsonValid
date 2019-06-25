@@ -1,5 +1,27 @@
 
 {
+  "room_type": [
+    {
+      "id": 1,
+      "name": "Standard",
+      "created_at": "2019-06-20 07:27:05",
+      "updated_at": "2019-06-30 07:27:05",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "created_at": "2019-06-21 07:27:05",
+      "updated_at": "2019-06-28 07:27:05",
+      "deleted_at": null
+    },
+    {
+      "created_at": "2019-06-13 04:09:06",
+      "updated_at": "2019-06-12 04:09:19",
+      "name": "Room 7",
+      "id": 3
+    }
+  ],
   "posts": [
     {
       "id": 1,
